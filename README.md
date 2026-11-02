@@ -64,11 +64,11 @@ concrete-qc-305q/
 | Step | Notebook | Status |
 |---|---|---|
 | 0 – Setup | `00_setup_check` | Done |
-| 1a – Data understanding | `01_data_understanding` | |
-| 1b – Data cleaning | `02_data_cleaning` | |
-| 1c – EDA: behaviour | `03_eda_behaviour` | |
-| 2 – Why | `04_why` | |
-| 3 – What can be done | `05_what_can_be_done` | |
+| 1a – Data understanding | `01_data_understanding` | Done |
+| 1b – Data cleaning | `02_data_cleaning` | Done |
+| 1c – EDA: behaviour | `03_eda_behaviour` | Done |
+| 2 – Why | `04_why` | Done |
+| 3 – What can be done | `05_what_can_be_done` | Done |
 
 ## Author
 
