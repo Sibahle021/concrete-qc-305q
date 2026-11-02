@@ -1,0 +1,13 @@
+mix_id,supplier,mix_class,cement,slag,fly_ash,water,admixture_l,coarse_agg,fine_agg,design_slump_min,design_slump_max,design_7d,design_28d,target,d2_source,binder,water_binder,fly_ash_percent,strength_class
+AFR-15/20,AfriSam,15MPa/20,120.0,0,51.0,180,1.026,1010,1011,75,125,9.1,17.2,18.5,AfriSam-D2_15Mpa.20.pdf,171.0,1.053,29.8,15
+AFR-20/20,AfriSam,20MPa/20,152.0,0,65.0,178,1.302,1030,956,75,125,11.5,22.0,24.5,AfriSam-D2_20Mpa.20.pdf,217.0,0.82,30.0,20
+AFR-25/20,AfriSam,25MPa/20,178.0,0,76.0,170,1.397,1031,931,75,125,19.9,31.5,30.7,AfriSam-D2_25Mpa.20.pdf,254.0,0.669,29.9,25
+AFR-30/20,AfriSam,30MPa/20,195.0,0,84.0,168,1.674,1070,913,75,125,24.3,37.7,35.8,AfriSam-D2_30Mpa.20.pdf,279.0,0.602,30.1,30
+AFR-35/20,AfriSam,35MPa/20,202.0,0,87.0,168,1.734,1100,851,75,125,32.7,41.8,40.8,AfriSam-D2_35Mpa.20.pdf,289.0,0.581,30.1,35
+AFR-40/20,AfriSam,40MPa/20,239.0,0,102.0,167,2.046,1080,856,75,125,33.7,45.4,45.8,AfriSam-D2_40Mpa.20.pdf,341.0,0.49,29.9,40
+AFR-W30/20,AfriSam,W30MPa/20,236.0,0,101.0,185,2.019,890,970,85,165,32.6,45.1,35.8,AfriSam-D2_W30Mpa.20(pump).pdf,337.0,0.549,30.0,30
+AFR-W40/20,AfriSam,W40MPa/20,284.0,0,122.0,178,2.436,937,866,85,165,37.2,57.0,47.0,AfriSam-D2_W40Mpa.20(pump).pdf,406.0,0.438,30.0,40
+AFR-W50/20,AfriSam,W50MPa/20,299.0,0,128.0,178,2.562,951,847,85,165,41.7,60.1,57.0,AfriSam-D2_W50Mpa.20(pump).pdf,427.0,0.417,30.0,50
+AFR-W50/14,AfriSam,W50MPa/14,303.8,0,130.2,178,3.472,850,923,160,240,41.7,60.1,57.0,W50MPa_14.pdf (scanned),434.0,0.41,30.0,50
+AFR-W50/20HS,AfriSam,W50MPa/20 high slump,302.0,0,130.0,178,5.184,951,821,135,215,50.8,63.4,57.0,SWL - IRT JV W50MPa high slump (W50_20).pdf (scanned),432.0,0.412,30.1,50
+AFR-35/28CRCP,AfriSam,35MPa/28 CRCP (red concrete),320.0,0,0.0,170,3.2,1091,827,75,125,46.8,53.6,40.8,Mix design - comparison.xlsx (New Mix Design: 20mm 382 + 28mm 709),320.0,0.531,0.0,35
